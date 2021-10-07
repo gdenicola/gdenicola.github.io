@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-title: "About Me"
+title: "About"
 header:
   overlay_image: /assets/images/background.JPG
   overlay_filter: 0.5
@@ -11,10 +11,10 @@ classes: wide
 author_profile: true  
 ---
 
-Hello! 
+Hello, World! 
 
-I am Cornelius Fritz and currently a PhD Student under Göran Kauermann working on all kinds of things remotely related to networks. My position is partly funded by the DFG project DFG Project ["International Arms Trade: A Network Approach"](https://www.arms-trade-research.uni-muenchen.de/index.html) and the  Munich Center for Machine Learning[(MCML)](https://mcml.ai/). <br>
+Giacomo here, PhD Student at the Department of Statistics of LMU Munich under the supervision of Göran Kauermann. I'm currently working on the analysis of complex networks, with a focus on community detection and latent variable modeling. <br>
 
-In this context, my research mainly revolves around analyzing dynamic networks to answer questions posed within substantive sciences, e.g., Political Science and Sociology, by novel data analysis techniques that combine statistical and machine learning thinking. I am also an active member of the [CODAG](https://www.covid19.statistik.uni-muenchen.de/index.html) (COVID-19 Data Analysis Group), where I am doing research on the interplay of mobility patterns and COVID-19 infections as well as other smaller projects. <br>
+My research mainly revolves around analyzing networks to answer questions posed within substantive sciences, such as economics, sociology, political science and biology, through use of novel statistical modeling techniques with an interdisciplinary outlook. I am also an active member of the [CODAG](https://www.covid19.statistik.uni-muenchen.de/index.html) (COVID-19 Data Analysis Group), where I am doing research on several topics related to the COVID-19 spreading process and the mortality associated with it. <br>
 
-Prior to this I received my B.Sc. and M.S.c degree in Statistics at the LMU Munich in 2016 and 2018.
+Prior to this I received my B.Sc. in Statistics at the University of Florence and my M.Sc in Economic and Social Sciences at Bocconi University.
