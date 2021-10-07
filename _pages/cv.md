@@ -15,7 +15,7 @@ Work Experience
 ---------------
 __2020 - today__<br/>
 Department of Statistics, LMU Munich, Germany<br/>
-Research Assistant
+Research Master
 
 __2016 - 2019__<br/>
 Department of Statistics, LMU Munich, Germany<br/>
