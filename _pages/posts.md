@@ -3,7 +3,7 @@ layout: archive
 permalink: /posts/
 title: &title "News"
 header:
-  overlay_image: /assets/images/Untitled.jpg
+  overlay_image: /assets/images/posts.jpg
   overlay_filter: 0.5
 show_overlay_title: true
 pagination:
