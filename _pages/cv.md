@@ -11,44 +11,48 @@ classes: wide
 author_profile: true  
 ---
 
-Work Experience
----------------
-__2020 - today__<br/>
-Department of Statistics, LMU Munich, Germany<br/>
-Research Master
-
-__2016 - 2019__<br/>
-Department of Statistics, LMU Munich, Germany<br/>
-Graduate Assistant
-
-__2017 - 2019__<br/>
-Department of Statistics, LMU Munich, Germany<br/>
-Tutor
-
-__2015 - 2016__<br/>
-Department of Statistics, LMU Munich, Germany<br/>
-Undergraduate Assistant
-
-
 Educational Background
 ---------------
 
-__2018 - today__<br/>
-LMU Munich, Munich, Germany<br/>
-Ph.D. student,
+__2019 - today__<br/>
+LMU Munich, Germany<br/>
+PhD student,
 
-__2018__<br/>
-Universidad Complutense de Madrid, Madrid, Spain<br/>
-Visiting student
+__2015 - 2019__<br/>
+Bocconi University, Milan, Italy<br/>
+MSc in Economic and Social Sciences
 
-__2016 - 2018__<br/>
-LMU Munich, Munich, Germany<br/>
-M.Sc. in Statistcs
+__2012 - 2015__<br/>
+University of Florence, Italy<br/>
+BSc in Statistcs
 
-__2013 - 2016__<br/>
-LMU Munich, Munich, Germany<br/>
-B.Sc. in Statistcs
+__2007 - 2012__<br/>
+High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
 
-__2013__<br/>
-Abitur (high school graduation), Stadt. Heinrich-Heine-Gymnasium, Munich
+
+Teaching
+---------------
+__2021/2022__<br/>
+Advanced Statistical Modeling (entire course)<br/>
+Statistical Reasoning and Inference (excercise sessions)<br/>
+
+__2020/2021__<br/>
+Advanced Statistical Modeling (entire course)<br/>
+Analysis of Longitudinal Data (ecercise sessions)<br/>
+Statistical Reasoning and Inference (excercise sessions)<br/>
+Structured Seminar: Statistical Analysis of Social Networks
+
+__2019/2020__<br/>
+Advanced Statistical Modeling (entire course)<br/>
+Analysis of Longitudinal Data (exercise sessions)<br/>
+Statistical Reasoning and Inference (exercise sessions)<br/>
+Structured Seminar: Complex Networks
+
+
+
+
+
+
+
+
 
