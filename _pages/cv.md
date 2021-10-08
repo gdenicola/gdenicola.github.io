@@ -32,23 +32,27 @@ High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
 
 Teaching
 ---------------
-__2021/2022__<br/>
+__2021/2022__
 <ul>
 <li>Advanced Statistical Modeling (entire course)</li>
 <li>Statistical Reasoning and Inference (excercise sessions)</li>
 </ul>
 
-__2020/2021__<br/>
-Advanced Statistical Modeling (entire course)<br/>
-Analysis of Longitudinal Data (ecercise sessions)<br/>
-Statistical Reasoning and Inference (excercise sessions)<br/>
-Structured Seminar: Statistical Analysis of Social Networks
+__2020/2021__
+<ul>
+<li>Advanced Statistical Modeling (entire course)</li>
+<li>Analysis of Longitudinal Data (ecercise sessions)</li>
+<li>Statistical Reasoning and Inference (excercise sessions)</li>
+<li>Structured Seminar: Statistical Analysis of Social Networks</li>
+</ul>
 
-__2019/2020__<br/>
-Advanced Statistical Modeling (entire course)<br/>
-Analysis of Longitudinal Data (exercise sessions)<br/>
-Statistical Reasoning and Inference (exercise sessions)<br/>
-Structured Seminar: Complex Networks
+__2019/2020__
+<ul>
+<li>Advanced Statistical Modeling (entire course)</li>
+<li>Analysis of Longitudinal Data (exercise sessions)</li>
+<li>Statistical Reasoning and Inference (exercise sessions)</li>
+<li>Structured Seminar: Complex Networks</li>
+</ul>
 
 
 
