@@ -33,8 +33,10 @@ High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
 Teaching
 ---------------
 __2021/2022__<br/>
-Advanced Statistical Modeling (entire course)<br/>
-Statistical Reasoning and Inference (excercise sessions)<br/>
+<ul>
+<li>Advanced Statistical Modeling (entire course)</li>
+<li>Statistical Reasoning and Inference (excercise sessions)</li>
+</ul>
 
 __2020/2021__<br/>
 Advanced Statistical Modeling (entire course)<br/>
