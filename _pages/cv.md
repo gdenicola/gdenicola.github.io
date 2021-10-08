@@ -11,7 +11,7 @@ classes: wide
 author_profile: true  
 ---
 
-Educational Background
+Education
 ---------------
 
 __2019 - today__<br/>
