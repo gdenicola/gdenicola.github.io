@@ -54,6 +54,15 @@ __2019/2020__
 <li>Structured Seminar: Complex Networks</li>
 </ul>
 
+Honors and Awards
+---------------
+
+__Best Graduate, class of 2015__<br/>
+Honor awarded from the Florence School of Economics Alumni Association
+on the basis of overall GPA among all students of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students)<br/>
+
+__Productivity and merit scholarship__<br/>
+Scholarship awarded on the basis of GPA and productivity (2013, 2014, 2015).
 
 
 
