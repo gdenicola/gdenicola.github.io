@@ -57,8 +57,8 @@ __2019/2020__
 Honors and Awards
 ---------------
 
-__"Giuseppe Parenti" prize, best bachelor graduate, class of 2015__<br/>
-Honor awarded from the alumni association of the Florence school of economics (Associazione Villa Favard) on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students)<br/>
+__"Giuseppe Parenti" Prize, Best Graduate, class of 2015__<br/>
+Honor awarded from the alumni association of the Florence school of economics ("Associazione Villa Favard"") on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students)<br/>
 
 __Productivity and merit scholarship__<br/>
 Scholarship awarded on the basis of GPA and productivity (2013, 2014, 2015).
