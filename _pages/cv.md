@@ -35,14 +35,14 @@ Teaching
 __2021/2022__
 <ul>
 <li>Advanced Statistical Modeling (entire course)</li>
-<li>Statistical Reasoning and Inference (excercise sessions)</li>
+<li>Statistical Reasoning and Inference (exercise sessions)</li>
 </ul>
 
 __2020/2021__
 <ul>
 <li>Advanced Statistical Modeling (entire course)</li>
-<li>Analysis of Longitudinal Data (ecercise sessions)</li>
-<li>Statistical Reasoning and Inference (excercise sessions)</li>
+<li>Analysis of Longitudinal Data (exercise sessions)</li>
+<li>Statistical Reasoning and Inference (exercise sessions)</li>
 <li>Structured Seminar: Statistical Analysis of Social Networks</li>
 </ul>
 

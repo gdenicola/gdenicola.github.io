@@ -14,50 +14,25 @@ author_profile: true
 Research Interest
 ---------------
 
-+ Dynamic Social Network Analysis 
-+ Relational Event Models
-+ Semiparametric Smoothing Methods  
-+ Scalable optimization and its Statistical Properties   
-+ Dynamic Modelling based on Markov Processes or Markov Chains 
++ Statistical Analysis of Networks 
++ Community Detection
++ Disease Modeling
++ Generalized Additive Models  
++ Behavioral Finance 
 
 
 Publications
 ---------------
 
-+ Fritz C., Mehrl M., Thurner P. W., Kauermann G. (2021):*The Role of Governmental Weapons Procurements in Forecasting Monthly Fatalities in Intrastate Conflicts: A Semiparametric Hierarchical Hurdle Model*, International Interactions (to appear,[arXiv](https://arxiv.org/abs/2104.02705))
-+ Fritz C. and Kauermann G.  (2021):*On the Interplay of Regional Mobility, Social Connectedness, and the Spread of COVID-19 in Germany*, Journal of Royal Statistical Society, Series A (to appear,[arXiv](https://arxiv.org/abs/2008.03013))
-+ Fritz C., Thurner P. W. and Kauermann G. (2021):*Separable and Semiparametric Network-based Counting Processes applied to the International Combat Aircraft Trades*, Network Science ([OnlineFirst](https://www.cambridge.org/core/journals/network-science/article/separable-and-semiparametric-networkbased-counting-processes-applied-to-the-international-combat-aircraft-trades/0D57EC7B7E1775B0BEF72BDE101E507F))
-+ Fritz C., Lebacher M. and Kauermann G. (2020):*Tempus Volat, Hora Fugit - A Survey of Tie-Oriented Dynamic Network Models in Discrete and Continuous Time*, Statistica Neerlandica, Vol. 74, No. 3, 275-299 ([Link](https://onlinelibrary.wiley.com/doi/full/10.1111/stan.12198))
-+ Baumann S. A., Fritz C.,&nbsp;Mueller R. S. (2020):*Food antigen-specific IgE in dogs with suspected food hypersensitivity*, Tier&auml;rztliche Praxis Ausgabe K: Kleintiere/Heimtiere, Vol. 48, No. 6, 395-402 ([Link](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1274-9210))
++ De Nicola G., Sischka B. and Kauermann G. (2021):*Mixture models and networks: The stochastic blockmodel*, Statistical Modelling (to appear) ([Link](https://journals.sagepub.com/doi/pdf/10.1177/1471082X211033169))
++ De Nicola G. (2021):*On the intraday behavior of Bitcoin*, Ledger 6 ([Link](http://ledgerjournal.org/ojs/ledger/article/view/213))
++  Schneble M., De Nicola G., Kauermann G. and Berger U. (2021):*A statistical model for the dynamics of COVID-19 infections and their case detection ratio in 2020*, Biometrical Journal (upcoming) ([Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bimj.202100125))
++ Schneble M., De Nicola G., Kauermann G. and Berger U. (2021):*Nowcasting fatal COVID-19 infections on a regional level in Germany*, Biometrical Journal, Vol. 63, No. 3, 471-489  ([Link](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202000143))
++ Conti E., Sgandurra G., De Nicola G., Biagioni T., Boldrini S., Bonaventura E., Buchignani B., Della Vecchia S., Falcone F., Fedi C., Gazzillo M., Marinella G., Mazzullo C., Micomonaco J., Pantalone G., Salvati A., Sesso G., Simonelli V., Tolomei G., Troiano I., Cioni G., Masi G., Muratori F., Milone A. and Battini R.  (2021):*Behavioural and emotional changes during COVID-19 lockdown in an Italian paediatric population with neurologic and psychiatric disorders*, Brain Sciences, Vol. 10, No. 12, 918 ([Link](https://www.mdpi.com/2076-3425/10/12/918/htm))
 
 
 Preprints
 ---------------
-+ R&uuml;gamer D., Kolb C., Fritz C., Pfisterer F., Bischl B., Shen R., Bukas C., Barros de Andrade e Sousa L., Thalmeier D., Baumann P., Klein N., M&uuml;ller C.L. (2021):*deepregression: a Flexible Neural Network Framework for Semi-Structured Deep Distributional Regression*([arXiv](https://arxiv.org/abs/2104.02705), under review)
-+ Fritz C., Mehrl M., Thurner P. W., Kauermann G.   (2021):*All that Glitters is not Gold: Modeling Relational Events with Measurement Errors*([arXiv](https://arxiv.org/abs/2109.10348), under review)
-+ Berger U., Fritz C., Kauermann G.  (2021):*Eine statistische Analyse des Effekts von verpflichtenden Tests an Schulen mit Pr&auml;senzunterricht im Vergleich zum Distanzunterricht*([Technical Report.](https://epub.ub.uni-muenchen.de/76005/1/tr000.pdf), under review)
-+ Fritz C.$\*$, Dorigatti E.$\*$, R&uuml;gamer D. (2021):*Combining Graph Neural Networks and Spatio-temporal Disease Models to Predict COVID-19 Cases in Germany*([arXiv](https://arxiv.org/abs/2101.00661), under review)
-
-Theses
----------------
-+ [Dynamic Social Network Models for Time-Stamped Data](https://epub.ub.uni-muenchen.de/60292/). Master Thesis, LMU Munich
-+ [Explorative Datenvisualisierung mit Shiny in R.](https://epub.ub.uni-muenchen.de/29575/). Bachelor Thesis, LMU Munich
-
-
-Talks
----------------
-
-+ __8.10.2020 (Online)__ The Role of Governmental Weapons Procurements in Forecasting Monthly Fatalities in Intrastate Conflicts: A Semiparametric Hierarchical Hurdle Model. *ViEWS Workshop*
-+ __24. - 25.9.2020 (Online)__ Tempus Volat, Hora Fugit - A Survey of Tie-Oriented Dynamic Network Models in Discrete and Continuous Time
-. *COSTNET 2020*
-+ __10.6.2020 (Online)__ Regional Mobility, Social Connectedness,and the Spread of COVID-19 in Germany. *COSTNET COVID-19 Conference*
-+ __13. - 17.9.2020 (Online)__ A Counting Processes-based Model for the Analysis of the International Arms Trade Network from 1950 to 2017
-. *Sunbelt Virtual Conference*
-+ __9. - 11.10.2019 (Bilbao, ES)__ A Counting Processes-based Model for the Analysis of the International Arms Trade Network from 1950 to 2017
-. *COSTNET19 Conference*
-+ __9. - 11.9.2019 (Zurich, CH)__ A Counting Processes-based Model for the Analysis of the International Arms Trade Network from 1950 to 2017
-. *EUSN2019 - Europen Conference on Social Networks*
-+ __6. - 7.9.2019 (Zurich, CH)__ Tempus Volat, Hora Fugit - A Survey of Tie-Oriented Dynamic Network Models in Discrete and Continuous Time
-. *Satellite meeting on Relational Event Model: EUSN2019 - Europen Conference on Social Networks*
-+ __24.4.2019 (Munich, GER)__ A Separable Counting Processes-based Model for the Analysis of the International Arms Trade Network from 1950 to 2018. *Summer Retreat, Department of Statistics LMU, Munich*
++ De Nicola G., Schneble M., Kauermann G. and Berger U. (2020):*Regional now-and forecasting for data reported with delay: Towards surveillance of COVID-19 infections*([arXiv](https://arxiv.org/pdf/2007.16058.pdf), under review)
++ De Nicola G., Kauermann G. and Hoehle M. (2021):*On assessing excess mortality in Germany during the COVID-19 pandemic*([arXiv](https://arxiv.org/pdf/2106.13827.pdf), under review)
 
