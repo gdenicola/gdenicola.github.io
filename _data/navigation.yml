@@ -1,9 +1,9 @@
 main:
-  - title: "About me"
+  - title: "About Me"
     url: /about/
-  - title: "News"
+  - title: "News Archive"
     url: /posts/
-  - title: "Research"
+  - title: "Publications"
     url: /research/
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
