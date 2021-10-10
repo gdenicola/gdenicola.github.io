@@ -18,3 +18,13 @@ My name is Giacomo De Nicola, and I am a PhD Student at the Department of Statis
 My research mainly revolves around analyzing networks to answer questions posed within substantive sciences, such as economics, sociology, political science and biology, through use of novel statistical modeling techniques with an interdisciplinary outlook. I am also an active member of the [CODAG](https://www.covid19.statistik.uni-muenchen.de/index.html) (COVID-19 Data Analysis Group), where I am doing research on several topics related to the COVID-19 spreading process and the mortality associated with it. <br>
 
 Prior to this I received my B.Sc. in Statistics at the University of Florence and my M.Sc in Economic and Social Sciences at Bocconi University.
+
+
+Research Interests
+---------------
+
++ Statistical Network Analysis 
++ Community Detection
++ Latent Space Models
++ Generalized Additive Models  
++ Behavioral Finance 

@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 layout: single
-title: "Research"
+title: "Publications"
 header:
   overlay_image: /assets/images/research.jpg
   overlay_filter: 0.5
@@ -10,16 +10,6 @@ share: false
 classes: wide
 author_profile: true  
 ---
-
-Research Interests
----------------
-
-+ Statistical Network Analysis 
-+ Community Detection
-+ Latent Space Models
-+ Generalized Additive Models  
-+ Behavioral Finance 
-
 
 Publications
 ---------------
