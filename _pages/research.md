@@ -24,7 +24,7 @@ Research Interests
 Publications
 ---------------
 
-+ De Nicola G., Sischka B. and Kauermann G. (2021): *Mixture models and networks: The stochastic blockmodel*, Statistical Modelling (to appear) ([Link](https://journals.sagepub.com/doi/pdf/10.1177/1471082X211033169))
++ De Nicola G., Sischka B. and Kauermann G. (2021): *Mixture models and networks: The stochastic blockmodel*, Statistical Modelling (upcoming) ([Link](https://journals.sagepub.com/doi/pdf/10.1177/1471082X211033169))
 + De Nicola G. (2021): *On the intraday behavior of Bitcoin*, Ledger 6 ([Link](http://ledgerjournal.org/ojs/ledger/article/view/213))
 +  Schneble M., De Nicola G., Kauermann G. and Berger U. (2021): *A statistical model for the dynamics of COVID-19 infections and their case detection ratio in 2020*, Biometrical Journal (upcoming) ([Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bimj.202100125))
 + Schneble M., De Nicola G., Kauermann G. and Berger U. (2021): *Nowcasting fatal COVID-19 infections on a regional level in Germany*, Biometrical Journal, Vol. 63, No. 3, 471-489  ([Link](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bimj.202000143))
