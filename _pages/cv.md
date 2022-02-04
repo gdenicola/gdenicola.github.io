@@ -16,7 +16,7 @@ Education
 
 __2019 - today__<br/>
 LMU Munich, Germany<br/>
-PhD student,
+PhD student
 
 __2015 - 2019__<br/>
 Bocconi University, Milan, Italy<br/>
@@ -24,7 +24,7 @@ MSc in Economic and Social Sciences
 
 __2012 - 2015__<br/>
 University of Florence, Italy<br/>
-BSc in Statistcs
+BSc in Statistics
 
 __2007 - 2012__<br/>
 High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
