@@ -11,7 +11,7 @@ classes: wide
 author_profile: true  
 ---
 
-Download my <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">full CV here</a>.
+View my full CV <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">here</a>.
 
 Education
 ---------------
@@ -37,14 +37,18 @@ Teaching
 __2021/2022__
 <ul>
 <li>Advanced Statistical Modeling (entire course)</li>
-<li>Statistical Reasoning and Inference (exercise sessions)</li>
+<li>Statistical Reasoning and Inference 1 (exercise sessions)</li>
+<li>Statistical Reasoning and Inference 2 (exercise sessions)</li>
+<li>Regression for Correlated Data (exercise sessions)</li>
+<li>Structured Seminar: Statistical Modeling of Political Networks</li>
 </ul>
 
 __2020/2021__
 <ul>
 <li>Advanced Statistical Modeling (entire course)</li>
 <li>Analysis of Longitudinal Data (exercise sessions)</li>
-<li>Statistical Reasoning and Inference (exercise sessions)</li>
+<li>Statistical Reasoning and Inference 1 (exercise sessions)</li>
+<li>Statistical Reasoning and Inference 2 (exercise sessions)</li>
 <li>Structured Seminar: Statistical Analysis of Social Networks</li>
 </ul>
 
@@ -52,7 +56,7 @@ __2019/2020__
 <ul>
 <li>Advanced Statistical Modeling (entire course)</li>
 <li>Analysis of Longitudinal Data (exercise sessions)</li>
-<li>Statistical Reasoning and Inference (exercise sessions)</li>
+<li>Statistical Reasoning and Inference 2 (exercise sessions)</li>
 <li>Structured Seminar: Complex Networks</li>
 </ul>
 
@@ -61,6 +65,10 @@ Honors and Awards
 
 __"Giuseppe Parenti" Prize, Best Graduate, class of 2015__<br/>
 Honor awarded from the alumni association of the Florence school of economics ("Associazione Villa Favard") on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students)<br/>
+
+__Best Poster Award - DAGSTAT 2022__<br/>
+Awarded for the poster "Modelling large and dynamically growing bipartite networks - A case study in patent data" presented at the DAGSTAT conference, March 28-Apr 1, 2022, Hamburg, Germany
+<br/>
 
 __Productivity and merit scholarship__<br/>
 Scholarship awarded on the basis of GPA and productivity (2013, 2014, 2015).
