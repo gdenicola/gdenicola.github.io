@@ -11,6 +11,8 @@ classes: wide
 author_profile: true  
 ---
 
+Download my <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">full CV here</a>.
+
 Education
 ---------------
 
