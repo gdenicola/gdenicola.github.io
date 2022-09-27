@@ -11,6 +11,14 @@ classes: wide
 author_profile: true  
 ---
 
+Current Research Interests
+---------------
+
++ Statistical Network Analysis
++ Latent Variable Network Models
++ Statistical Modeling
++ Social Media Networks
++ Excess Mortality Estimation
 
 Publications
 ---------------
