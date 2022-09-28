@@ -17,4 +17,4 @@ My name is Giacomo De Nicola, and I am a PhD candidate at the Department of Stat
 
 My research mainly revolves around analyzing networks to answer questions posed within substantive sciences, such as economics, sociology and political science, through use of novel statistical modeling techniques with an interdisciplinary outlook. In addition to that, I am an active member of [CODAG](https://www.covid19.statistik.uni-muenchen.de/index.html) (the COVID-19 Data Analysis Group), where I am doing research on several topics related to the COVID-19 spreading process and the mortality associated with it. I am also a member of the German Statistical Society and a fellow of the [LMU Open Science Center](https://www.osc.uni-muenchen.de/members/osis/index.html), where we foster open and reproducible research.<br>
 
-If you want to get in touch, you can contact me on [Twitter](https://twitter.com/GiacomoDeNicola) or by email at giacomo.denicola@stat.uni-muenchen.de. 
+If you want to get in touch, you can contact me on [Twitter](https://twitter.com/GiacomoDeNicola) or by [email](mailto:giacomo.denicola@stat.uni-muenchen.de). 
