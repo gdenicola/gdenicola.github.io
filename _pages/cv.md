@@ -12,6 +12,8 @@ author_profile: true
 ---
 
 View my full CV <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">here</a>.
+---------------
+
 
 Education
 ---------------
