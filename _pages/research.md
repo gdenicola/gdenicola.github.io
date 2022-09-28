@@ -32,4 +32,4 @@ Media Appearences
 
 + Feature article interview with [Nature](https://www.nature.com/articles/d41586-022-00104-8)
 + Interview with [The New York Times](https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html)
-+ Appearence on [NANO](https://www.3sat.de/wissen/nano/220207-sendung-nano-102.html), a science communication TV show (in German).
++ Appearence on [NANO](https://www.3sat.de/wissen/nano/220207-sendung-nano-102.html), a science communication TV show (in German)
