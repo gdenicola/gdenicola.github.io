@@ -36,6 +36,13 @@ High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
 
 Teaching
 ---------------
+__2022/2023__
+<ul>
+<li>Inferenzstatistik 1 (Statistical Inference 1, exercise sessions)</li>
+<li>Statistical Reasoning and Inference 1 (exercise sessions)</li>
+<li>Structured Seminar: Open Science in Statistics & Machine Learning</li>
+</ul>
+
 __2021/2022__
 <ul>
 <li>Advanced Statistical Modeling (entire course)</li>
@@ -65,15 +72,19 @@ __2019/2020__
 Honors and Awards
 ---------------
 
-__"Giuseppe Parenti" Prize, Best Graduate, class of 2015__<br/>
-Honor awarded from the alumni association of the Florence school of economics ("Associazione Villa Favard") on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students)<br/>
+__"Corona Special Award: Impact of the pandemic on the economy and society - 2022__<br/>
+Awarded by the Federal Statistical Office of Germany (DESTATIS) for outstanding work examining empirical issues with intensive use of data related to the COVID-19 pandemic. Awarded for the papers "On assessing excess mortality in Germany during the COVID-19 pandemic" and "An update on excess mortality in the second year of the COVID-19 pandemic in Germany". <br/>
 
-__Best Poster Award - DAGSTAT 2022__<br/>
+__DAGSTAT Best Poster Award - 2022__<br/>
 Awarded for the poster "Modelling large and dynamically growing bipartite networks - A case study in patent data" presented at the DAGSTAT conference, March 28-Apr 1, 2022, Hamburg, Germany
 <br/>
 
-__Productivity and merit scholarship__<br/>
-Scholarship awarded on the basis of GPA and productivity (2013, 2014, 2015).
+__"Giuseppe Parenti" Prize, Best Graduate - 2016__<br/>
+Awarded by the alumni association of the Faculty of Economics at the University of Florence (“Associazione Villa Favard”) on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students).<br/>
+
+__Productivity and merit scholarship - 2013, 2014, 2015__<br/>
+Scholarship awarded on the basis of academic merit and productivity by the University of Florence.
+
 
 
 
