@@ -14,7 +14,7 @@ author_profile: true
 Publications
 ---------------
 
-You can find my up to date publications on my [Google Scholar](https://scholar.google.com/citations?user=m0vP4pYAAAAJ&hl=en) profile as well as in my <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">full CV</a>.
+You can find my up to date publications on my [Google Scholar](https://scholar.google.com/citations?user=m0vP4pYAAAAJ&hl=en) and in my <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">full CV</a>.
 
 Current Research Interests
 ---------------
