@@ -13,8 +13,10 @@ author_profile: true
 
 Hello, World! 
 
-My name is Giacomo De Nicola, and I am a PhD candidate at the Department of Statistics of LMU Munich under the supervision of Göran Kauermann.<br>
+I am a PhD candidate in Statistics at the Ludwig Maximilian University of Munich, under the supervision of Prof. Göran Kauermann.<br>
 
-As an applied data scientist, my research focuses on designing and leveraging modern statistical tools to answer questions posed within the social, political, economic, and healthcare sciences. The overarching goal of my work is to establish and consolidate methodologies that improve our understanding of society, with particular focus on applications with tangible real-world impact. More specifically, my research interests can be roughly categorized in three parts, namely (a) social and economic network modeling, (b) models for monitoring epidemics, and (c) methods for excess mortality estimation. I am also a member of the German Statistical Society and a fellow of the [LMU Open Science Center](https://www.osc.uni-muenchen.de/members/osis/index.html), where we foster open and reproducible research.<br>
+As an applied data scientist, my research focuses on designing, implementing and leveraging modern statistical tools to address real-world problems. The overarching goal of my work is to improve the way we use data to answer societally relevant questions, with a focus on applications in the socio-economic sciences and public health. 
+
+From a methodological perspective, my research interests can be broadly categorized in three areas, namely social network modeling, models for monitoring epidemics, and methods for quantifying the impact of crises. Furthermore, I enjoy collaborating with empirical researchers from diverse fields, to help bridge the gap between theory and applications. As a believer in open and accessible research, I'm also a fellow of the [LMU Open Science Initiative in Statistics](https://www.osc.uni-muenchen.de/members/osis/index.html), where we foster reproducible data analysis and data literacy.<br>
 
 If you want to get in touch, you can contact me on [Twitter](https://twitter.com/GiacomoDeNicola) or by [email](mailto:giacomo.denicola@stat.uni-muenchen.de). 

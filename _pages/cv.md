@@ -36,6 +36,14 @@ High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
 
 Teaching
 ---------------
+
+__2023/2024__
+<ul>
+<li>Inferenzstatistik 1 (Statistical Inference 1, exercise sessions)</li>
+<li>Inferenzstatistik 2 (Statistical Inference 2, exercise sessions)</li>
+<li>Structured Seminar: Statistical Analysis of Social Networks</li>
+</ul>
+
 __2022/2023__
 <ul>
 <li>Inferenzstatistik 1 (Statistical Inference 1, exercise sessions)</li>
@@ -88,7 +96,7 @@ Awarded by the alumni association of the Faculty of Economics at the University 
 __Productivity and merit scholarship - 2013, 2014, 2015__<br/>
 Scholarship awarded on the basis of academic merit and productivity by the University of Florence.
 
-__Member - LMU Mentoring Program 2023__<br/>
+__Fellow - LMU Mentoring Program 2023, 2024__<br/>
 The mentoring program supports excellent young scientists (doctoral students and postdocs) on their way to an academic career. The program's funding allows me to present at international conferences and visit collaborators overseas.
 
 

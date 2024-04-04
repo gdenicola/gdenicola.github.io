@@ -27,7 +27,7 @@ Current Research Interests
 + Excess Mortality Estimation
 
 
-Media Appearences
+Selected Media Appearences
 ---------------
 
 + Press release from Destatis on the [Corona Special Award](https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/11/PD22_487_p001.html) (in German)
