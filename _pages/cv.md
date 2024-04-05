@@ -34,6 +34,26 @@ __2007 - 2012__<br/>
 High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
 
 
+Honors and Awards
+---------------
+
+__"Corona Special Award: Impact of the pandemic on the economy and society - 2022__<br/>
+Awarded by the Federal Statistical Office of Germany (DESTATIS) for outstanding work examining empirical issues with intensive use of data related to the COVID-19 pandemic. Awarded for the papers "On assessing excess mortality in Germany during the COVID-19 pandemic" and "An update on excess mortality in the second year of the COVID-19 pandemic in Germany". <br/>
+
+__DAGSTAT Best Poster Award - 2022__<br/>
+Awarded for the poster "Modelling large and dynamically growing bipartite networks - A case study in patent data" presented at the DAGSTAT conference, March 28-Apr 1, 2022, Hamburg, Germany
+<br/>
+
+__"Giuseppe Parenti" Prize, Best Graduate - 2016__<br/>
+Awarded by the alumni association of the Faculty of Economics at the University of Florence (“Associazione Villa Favard”) on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students).<br/>
+
+__Productivity and merit scholarship - 2013, 2014, 2015__<br/>
+Scholarship awarded on the basis of academic merit and productivity by the University of Florence.
+
+__Fellow - LMU Mentoring Program 2023, 2024__<br/>
+The mentoring program supports excellent young scientists (doctoral students and postdocs) on their way to an academic career. The program's funding allows me to present at international conferences and visit collaborators overseas.
+
+
 Teaching
 ---------------
 
@@ -80,24 +100,7 @@ __2019/2020__
 <li>Structured Seminar: Complex Networks</li>
 </ul>
 
-Honors and Awards
----------------
 
-__"Corona Special Award: Impact of the pandemic on the economy and society - 2022__<br/>
-Awarded by the Federal Statistical Office of Germany (DESTATIS) for outstanding work examining empirical issues with intensive use of data related to the COVID-19 pandemic. Awarded for the papers "On assessing excess mortality in Germany during the COVID-19 pandemic" and "An update on excess mortality in the second year of the COVID-19 pandemic in Germany". <br/>
-
-__DAGSTAT Best Poster Award - 2022__<br/>
-Awarded for the poster "Modelling large and dynamically growing bipartite networks - A case study in patent data" presented at the DAGSTAT conference, March 28-Apr 1, 2022, Hamburg, Germany
-<br/>
-
-__"Giuseppe Parenti" Prize, Best Graduate - 2016__<br/>
-Awarded by the alumni association of the Faculty of Economics at the University of Florence (“Associazione Villa Favard”) on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students).<br/>
-
-__Productivity and merit scholarship - 2013, 2014, 2015__<br/>
-Scholarship awarded on the basis of academic merit and productivity by the University of Florence.
-
-__Fellow - LMU Mentoring Program 2023, 2024__<br/>
-The mentoring program supports excellent young scientists (doctoral students and postdocs) on their way to an academic career. The program's funding allows me to present at international conferences and visit collaborators overseas.
 
 
 
