@@ -20,11 +20,10 @@ Current Research Interests
 ---------------
 
 + Statistical Network Analysis
-+ Latent Variable Network Models
-+ Statistical Modeling
-+ Social Media Networks
-+ Generalized Additive Models
++ Nowcasting
 + Excess Mortality Estimation
++ Latent Variable Models
++ Generalized Additive Models
 
 
 Selected Media Appearences

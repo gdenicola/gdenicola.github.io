@@ -18,9 +18,9 @@ View my full CV <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">h
 Education
 ---------------
 
-__2019 - today__<br/>
+__2019 - 2024__<br/>
 LMU Munich, Germany<br/>
-PhD student
+PhD in Statistics
 
 __2015 - 2019__<br/>
 Bocconi University, Milan, Italy<br/>
