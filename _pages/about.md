@@ -13,7 +13,7 @@ author_profile: true
 
 Hello, World! 
 
-I am a Lecturer in Data Science at the Department of Statistics at the Ludwig Maximilian University of Munich.<br>
+I am currently a Lecturer in Data Science at the Department of Statistics of the LMU Munich.<br>
 
 As an applied data scientist, my research focuses on designing, implementing and leveraging modern statistical tools to address real-world problems. The overarching goal of my work is to improve the way we use data to answer societally relevant questions, with a focus on applications in the socio-economic sciences and public health. 
 
