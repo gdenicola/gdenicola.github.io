@@ -15,6 +15,18 @@ View my full CV <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">h
 ---------------
 
 
+Academic Experience
+---------------
+
+__2024 - present__<br/>
+Harvard University, USA <br/>
+Postdoctoral Researcher
+
+__2019 - 2024__<br/>
+LMU Munich, Germany<br/>
+Researcher & Lecturer
+
+
 Education
 ---------------
 
@@ -29,9 +41,6 @@ MSc in Economic and Social Sciences
 __2012 - 2015__<br/>
 University of Florence, Italy<br/>
 BSc in Statistics
-
-__2007 - 2012__<br/>
-High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
 
 
 Honors and Awards

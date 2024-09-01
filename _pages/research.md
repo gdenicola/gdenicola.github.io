@@ -21,7 +21,7 @@ Current Research Interests
 
 + Statistical Network Analysis
 + Nowcasting
-+ Excess Mortality Estimation
++ Crisis Impact Estimation
 + Latent Variable Models
 + Generalized Additive Models
 
