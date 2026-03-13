@@ -8,8 +8,8 @@ author_profile: true
 Welcome! 👋
 
 This page hosts the companion materials for the book  
-**_Statistics: Coping with Uncertainty_**  
-*Göran Kauermann, Giacomo De Nicola, Cornelius Fritz, and David Rügamer.*
+**_Statistics: Coping with Uncertainty_**, by  *Göran Kauermann,* 
+*Giacomo De Nicola, Cornelius Fritz, and David Rügamer.*
 
 📘 **Publisher page (Springer):** [link coming soon](https://link.springer.com/)
 
