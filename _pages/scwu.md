@@ -10,7 +10,7 @@ Here you’ll find datasets for the exercises in *Statistics: Coping with Uncert
 
 ## Datasets
 
-- Chapter 1 — Exercise 3: [toy_data.csv](/scwu/data/toy_data.csv)
+- Chapter 1 — Exercise 3: [toy_data.csv](/scwu/data/test.txt)
 
 ## Solutions
 
