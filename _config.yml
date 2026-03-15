@@ -25,7 +25,7 @@ linkedin_username: giacomodenicola
 
 logo: "/images/logo.jpg"
 search: false #, false (default)
-logo: /assets/images/headshot.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: /assets/images/headshot.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 excerpt: "A nice background picture"
 header:
   overlay_image: /assets/images/background.JPG
@@ -65,7 +65,7 @@ social:
 # Site Author
 author: 
   name: "Giacomo De Nicola"
-  avatar: /assets/images/headshot.jpeg
+  avatar: /assets/images/headshot.png
   bio: "Postdoctoral Researcher @ Harvard"
   location: "Boston, MA, USA"
   links:
